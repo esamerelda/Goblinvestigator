@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 13705fa09d7a6cf448caf5d528c50933
+timeCreated: 1481432890
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - axe: {fileID: 1000010415968420, guid: 2bef038f1f2189c429960dcc96810af6, type: 2}
+  - brick: {fileID: 1000013004427302, guid: 1501ad2611265d2458318d3c728a86fe, type: 2}
+  - club: {fileID: 1000011231675574, guid: e0a0ec7e75aec6d4e85a88e2ab772224, type: 2}
+  - dagger: {fileID: 1000010511150664, guid: 8b100fbb46d65404eb5f7eb79d86cded, type: 2}
+  - spear: {fileID: 1000013937266298, guid: 6d1aa68e5a2264441a859a1941d90445, type: 2}
+  - sword: {fileID: 1000012037784998, guid: 5d8c8d60cd52e6f48b9ec2b0e8a36787, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

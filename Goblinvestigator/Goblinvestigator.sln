@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Goblinvestigator.CSharp.Plugins", "Goblinvestigator.CSharp.Plugins.csproj", "{C99A1FD6-C3D4-B128-C71F-A571FBE96149}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Goblinvestigator.CSharp", "Goblinvestigator.CSharp.csproj", "{3F026E16-976D-BA24-2AFD-985AF5A2C6B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C99A1FD6-C3D4-B128-C71F-A571FBE96149}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C99A1FD6-C3D4-B128-C71F-A571FBE96149}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C99A1FD6-C3D4-B128-C71F-A571FBE96149}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C99A1FD6-C3D4-B128-C71F-A571FBE96149}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F026E16-976D-BA24-2AFD-985AF5A2C6B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F026E16-976D-BA24-2AFD-985AF5A2C6B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F026E16-976D-BA24-2AFD-985AF5A2C6B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F026E16-976D-BA24-2AFD-985AF5A2C6B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
